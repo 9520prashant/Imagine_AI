@@ -217,6 +217,7 @@ img {
 }
 footer{
   position: fixed;
+  /* Bottom:5%  looks Good  */
   bottom: 5%;
   width: 100%;
   color: white;
